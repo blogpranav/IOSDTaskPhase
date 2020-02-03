@@ -7,8 +7,9 @@ were solved without much difficulty.
 
 I have used thes statements to remove C input and output methods so that the program is much faster and cin.tie is used
 to clear stdout before taking input.
+
 ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
+cin.tie(NULL);
     
 In the program of odd even set(3rd question) there was problem in solving the part od duplication for which i created another array which keeps track of the element already there.
 for counting 1's in the binary form of the number i used bit manipulation using bitwise operators
