@@ -1,8 +1,27 @@
-# IOSDTaskPhase
-How to make the submission:
-1. Fork this repository.
-2. Create a new branch.
-3. Name of the branch YourSub_Name, ex. ML_Anshika
-4. Create readme.md file in you branch.
-5. Readme file should have detailed report how you build, what problems you faced and what sources you used.
-6. Create PR.
+# submission
+
+for IOSD submission
+
+
+## Getting Started
+
+This is the first flutter application that I have written by using the code available in the documentation and some google.
+I got to learn pretty much about flutter as well as dart. 
+Programming was not a major concern.
+
+some problems that I encountered while creating the application:
+
+
+-->Linking multiple pages
+
+
+-->avoiding the back button from login page
+
+
+-->Aligning the login credentials and details
+
+
+somehow figured out all the aspects and everything is working fine now
+
+
+However it was a good experience.
